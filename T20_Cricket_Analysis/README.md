@@ -39,9 +39,9 @@ ________________________________________
 ________________________________________
 
 ## 💡 Project Insights:
-•	Identified the Best Playing XI, featuring top performers across batting, bowling, and all-rounder roles.
-•	Highlighted key players and teams that excel under specific conditions and venues.
-•	Visualized trends that reveal the dominance of certain teams and players in the T20 format.
+1. Identified the Best Playing XI, featuring top performers across batting, bowling, and all-rounder roles.
+2. Highlighted key players and teams that excel under specific conditions and venues.
+3. Visualized trends that reveal the dominance of certain teams and players in the T20 format.
 ________________________________________
 
 ## ✅ Conclusion:
