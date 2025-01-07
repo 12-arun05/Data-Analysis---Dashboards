@@ -5,7 +5,7 @@ The objective of this project is to analyze historical T20 cricket data to deriv
 ________________________________________
 
 📂 Dataset Used:
-•	<a href="https://github.com/12-arun05/Data-Analysis---Dashboards/tree/main/T20_Cricket_Analysis/T20_CSV_Files">Dataset </a>
+<a href= "https://github.com/12-arun05/Data-Analysis---Dashboards/tree/main/T20_Cricket_Analysis/T20_CSV_Files" > Dataset </a>
 •	Description: The dataset includes detailed statistics of T20 matches, players, and performances across multiple years.
 •	Key features: 
   o	Player names and roles (batsman, bowler, all-rounder)
