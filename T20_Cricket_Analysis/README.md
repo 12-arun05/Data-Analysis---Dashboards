@@ -24,18 +24,18 @@ ________________________________________
 
 ## 🔄 Process:
 1.	Data Cleaning and Preprocessing:
-  • Used Pandas and NumPy in Jupyter Notebook to clean the dataset by handling missing values, correcting data types, and removing duplicates.
-3.	Exploratory Data Analysis (EDA):
-   o	Conducted initial analysis to understand trends and outliers.
-4.	Dashboard Creation:
-o	Imported the processed dataset into Power BI.
-o	Designed interactive dashboards to answer the KPIs.
+   1.	Used Pandas and NumPy in Jupyter Notebook to clean the dataset by handling missing values, correcting data types, and removing duplicates.
+2.	Exploratory Data Analysis (EDA):
+   1. Conducted initial analysis to understand trends and outliers.
+3.	Dashboard Creation:
+	1. Imported the processed dataset into Power BI.
+   2. Designed interactive dashboards to answer the KPIs.
 ________________________________________
 
 ## 📊 Dashboards:
-•	Player Performance Dashboard: Displays individual player statistics (e.g., runs, wickets, averages, and strike rates).
-•	Team Analysis Dashboard: Provides win/loss trends, team comparisons, and venue-specific performance.
-•	Best XI Dashboard: Highlights the optimal playing XI based on performance metrics. 
+1.	Player Performance Dashboard: Displays individual player statistics (e.g., runs, wickets, averages, and strike rates).
+2.	Team Analysis Dashboard: Provides win/loss trends, team comparisons, and venue-specific performance.
+3.	Best XI Dashboard: Highlights the optimal playing XI based on performance metrics. 
 ________________________________________
 
 ## 💡 Project Insights:
@@ -49,9 +49,9 @@ This project showcases the power of combining Python and Power BI for sports ana
 ________________________________________
 
 🌟 Future Improvements:
-•	Expand the analysis to include IPL and other T20 leagues.
-•	Integrate real-time data for live analysis.
-•	Use advanced predictive models to forecast team and player performances.
+1.	Expand the analysis to include IPL and other T20 leagues.
+2.	Integrate real-time data for live analysis.
+3.	Use advanced predictive models to forecast team and player performances.
 ________________________________________
 
 
