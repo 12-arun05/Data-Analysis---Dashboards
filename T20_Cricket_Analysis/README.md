@@ -5,12 +5,12 @@ The objective of this project is to analyze historical T20 cricket data to deriv
 ________________________________________
 
 ## 📂 Dataset Used:
-• <a href= "https://github.com/12-arun05/Data-Analysis---Dashboards/tree/main/T20_Cricket_Analysis/T20_CSV_Files" > Dataset </a>
-•	Description: The dataset includes detailed statistics of T20 matches, players, and performances across multiple years.
-•	Key features: 
-  o	Player names and roles (batsman, bowler, all-rounder)
-  o	Match details (team names, venues, results)
-  o	Performance metrics (runs, wickets, strike rate, economy, etc.)
+1.  <a href= "https://github.com/12-arun05/Data-Analysis---Dashboards/tree/main/T20_Cricket_Analysis/T20_CSV_Files" > Dataset </a>
+2. 	Description: The dataset includes detailed statistics of T20 matches, players, and performances across multiple years.
+3. Key features: 
+   1. Player names and roles (batsman, bowler, all-rounder)
+   2. Match details (team names, venues, results)
+   3. Performance metrics (runs, wickets, strike rate, economy, etc.)
 
 ________________________________________
 ## ❓ Key Questions (KPIs):
@@ -24,10 +24,10 @@ ________________________________________
 
 ## 🔄 Process:
 1.	Data Cleaning and Preprocessing:
-o	Used Pandas and NumPy in Jupyter Notebook to clean the dataset by handling missing values, correcting data types, and removing duplicates.
-2.	Exploratory Data Analysis (EDA):
+  • Used Pandas and NumPy in Jupyter Notebook to clean the dataset by handling missing values, correcting data types, and removing duplicates.
+3.	Exploratory Data Analysis (EDA):
 o	Conducted initial analysis to understand trends and outliers.
-3.	Dashboard Creation:
+4.	Dashboard Creation:
 o	Imported the processed dataset into Power BI.
 o	Designed interactive dashboards to answer the KPIs.
 ________________________________________
