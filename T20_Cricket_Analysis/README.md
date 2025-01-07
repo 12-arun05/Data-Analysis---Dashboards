@@ -26,7 +26,7 @@ ________________________________________
 1.	Data Cleaning and Preprocessing:
   • Used Pandas and NumPy in Jupyter Notebook to clean the dataset by handling missing values, correcting data types, and removing duplicates.
 3.	Exploratory Data Analysis (EDA):
-o	Conducted initial analysis to understand trends and outliers.
+   o	Conducted initial analysis to understand trends and outliers.
 4.	Dashboard Creation:
 o	Imported the processed dataset into Power BI.
 o	Designed interactive dashboards to answer the KPIs.
