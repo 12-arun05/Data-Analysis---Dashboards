@@ -48,7 +48,7 @@ ________________________________________
 This project showcases the power of combining Python and Power BI for sports analytics. By leveraging data-driven insights, we can better understand player performances, team dynamics, and make informed decisions in the world of cricket.
 ________________________________________
 
-🌟 Future Improvements:
+## 🌟 Future Improvements:
 1.	Expand the analysis to include IPL and other T20 leagues.
 2.	Integrate real-time data for live analysis.
 3.	Use advanced predictive models to forecast team and player performances.
