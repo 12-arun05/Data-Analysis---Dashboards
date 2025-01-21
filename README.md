@@ -31,6 +31,7 @@ Projects in this repository may utilize:
 This repository is a work in progress. Stay tuned for the following projects:
 
 1. T20 Cricket Analysis Dashboard
+2. Sales Insights
 
 ## 🤝 Contributing
 Contributions and suggestions are always welcome! If you'd like to collaborate or improve any aspect of these projects, feel free to fork the repository, make updates, and create a pull request.
