@@ -11,7 +11,10 @@ This Power BI dashboard provides an interactive and data-driven visualization fo
 
 ## 🛠️ Tech Stack  
 - **Power BI** – Data visualization and dashboard development  
-- **Data Source:** Excel  
+- **Data Source:** Excel
+
+## 📸 Dashboard Preview  
+![ABC Institute Power BI Dashboard](Screenshot%20(45).png)
 
 ## 🚀 How to Use  
 1. **Download the .pbix file** from this repository.  
